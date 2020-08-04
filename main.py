@@ -1116,7 +1116,10 @@ def notify_users(new_projects_links):
         budget = project_soup.find_all(
             class_="b-layout__txt b-layout__txt_fontsize_18 b-layout__txt_fontsize_13_iphone")
         if len(budget) != 0:
-            budget = re.findall(r'\d+', budget[0].text)[0]
+            budget_list = re.findall(r'\d+', budget[0].text)
+            budget = ""
+            for i in budget_list:
+                budget += i
         else:
             budget = "не указан"
 
