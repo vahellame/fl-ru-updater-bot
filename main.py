@@ -1073,7 +1073,7 @@ def clean_projects_file():
     with open("projects.txt", "r") as f:
         project_links = f.readlines()
     if len(project_links) > 100:
-        project_links = project_links[:40]
+        project_links = project_links[:-100]
     with open("projects.txt", "w") as f:
         for project_link in project_links:
             f.write(f"{project_link}\n")
