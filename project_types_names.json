@@ -1,0 +1,344 @@
+{
+    "razrabotka-sajtov": {
+        "name": "Разработка сайтов",
+        "local_types": {
+            "copywriter-razrabotka-sajtov": "Копирайтинг",
+            "web-programmist-razrabotka-sajtov": "Веб-программирование",
+            "web-dizajner-razrabotka-sajtov": "Дизайн сайтов",
+            "html-verstalschik": "Верстка",
+            "sajt-pod-kljuch": "Сайт «под ключ»",
+            "kontent-menedzher-razrabotka-sajtov": "Контент-менеджер",
+            "landing": "Лендинги",
+            "rukovoditel-menedzher-internet-proektov-razrabotka-sajtov": "Менеджер проектов",
+            "internet-magazinyi": "Интернет-магазины",
+            "qa-testirovanie-razrabotka-sajtov": "QA (тестирование)",
+            "dorabotka-saytov": "Доработка сайтов",
+            "razrabotchik-cms": "Системы администрирования (CMS)",
+            "proektirovanie": "Проектирование",
+            "wordpress": "WordPress",
+            "adaptivnyiy-dizayn": "Адаптивный дизайн",
+            "yuzabiliti-analiz": "Юзабилити-анализ",
+            "flash-dizajner-razrabotchik-razrabotka-sajtov": "Флеш-сайты",
+            "razrabotchik-wap-pda-sajtov": "Wap/PDA-сайты"
+        }
+    },
+    "teksty": {
+        "name": "Тексты",
+        "local_types": {
+            "copywriter-teksty": "Копирайтинг",
+            "specialist-rasshifrovka-audio-video-zapisej": "Расшифровка аудио и видеозаписей",
+            "korrektor": "Редактирование/Корректура",
+            "kontent-menedzher-teksty": "Контент-менеджер",
+            "rerajter": "Рерайтинг",
+            "specialist-napisanie-statej": "Статьи",
+            "specialist-skanirovanie-raspoznavanie": "Сканирование и распознавание",
+            "specialist-po-postingu": "Постинг",
+            "specialist-napisanie-tekstov-rechej-raportov": "Тексты/Речи/Рапорты",
+            "specialist-napisanie-referatov-kursovyh-diplomov-teksty": "Рефераты/Курсовые/Дипломы",
+            "specialist-napisanie-stihov-poem-esse": "Стихи/Поэмы/Эссе",
+            "tekstyi-na-inostrannyih-yazyikah": "Тексты на иностранных языках",
+            "specialist-sozdanie-subtitrov": "Создание субтитров",
+            "specialist-nejming-razrabotka-sloganov": "Слоганы/Нейминг",
+            "specialist-napisanie-scenariev-teksty": "Сценарии",
+            "specialist-napisanie-rezume": "Резюме",
+            "specialist-napisanie-novostej-press-relizov": "Новости/Пресс-релизы",
+            "specialist-napisanie-tz-help-manualov": "ТЗ/Help/Мануал"
+        }
+    },
+    "dizajn": {
+        "name": "Дизайн и Арт",
+        "local_types": {
+            "web-dizajner-verstalschik-dizajn": "Дизайн сайтов",
+            "dizajner-logotipov": "Логотипы",
+            "illustrator-art": "Рисунки и иллюстрации",
+            "dizajner-poligrafii-dizajn": "Полиграфический дизайн",
+            "dizajner-bannerov-dizajn": "Баннеры",
+            "chastnyj-dizajner-interjera-dizajn": "Интерьеры",
+            "hudozhnik-vektornoj-grafiki": "Векторная графика",
+            "dizajner-firmennogo-stilja": "Фирменный стиль",
+            "dizajner-prezentacij": "Презентации",
+            "2d-animator-art": "2D Анимация",
+            "hudozhnik-2d-personazhej-art": "2D Персонажи",
+            "dizajner-upakovki-dizajn": "Дизайн упаковки",
+            "hudozhnik": "Живопись",
+            "dizajner-naruzhnoj-reklamy": "Наружная реклама",
+            "hudozhnik-ikonok": "Иконки",
+            "hand-made": "Хенд-мейд",
+            "dizayn-interfeysov-prilojeniy": "Дизайн интерфейсов приложений",
+            "landshaftnyj-dizajner-landshafta-dizajn": "Ландшафтный дизайн/Генплан",
+            "3d-illustrator-art": "3D Иллюстрации",
+            "hudozhnik-3d-personazhej-art": "3D Персонажи",
+            "dizajner-trikotazh-tekstil": "Трикотажный и текстильный дизайн",
+            "dizajner-interfejsov": "Интерфейсы",
+            "tehnicheskij-dizajner": "Технический дизайн",
+            "kontsept-art": "Концепт-арт",
+            "hudozhnik-piksel-arta-art": "Пиксел-арт",
+            "promyshlennyj-dizajner": "Промышленный дизайн",
+            "infografika": "Инфографика",
+            "hudozhnik-komiksov": "Комиксы",
+            "hudozhnik-graffiti": "Граффити",
+            "dizajner-vystavochnyh-stendov": "Дизайн выставочных стендов",
+            "razrabotchik-shriftov-dizajn": "Разработка шрифтов",
+            "dizajner-mashinnoj-vyshivki": "Дизайнер машинной вышивки",
+            "kartograf": "Картография",
+            "hudozhnik-ajerografija": "Аэрография"
+        }
+    },
+    "programmirovanie": {
+        "name": "Программирование",
+        "local_types": {
+            "web-programmist-programmirovanie": "Веб-программирование",
+            "prikladnoj-programmist": "Прикладное программирование",
+            "qa-testirovanie-programmirovanie": "QA (тестирование)",
+            "1c-programmist": "1С-программирование",
+            "programmist-baz-dannyh": "Базы данных",
+            "programmist-igr-programmirovanie": "Программирование игр",
+            "sistemnyj-administrator": "Системный администратор",
+            "razrabotka-chat-botov": "Разработка Чат-ботов",
+            "sistemnyj-administrator-programmirovanie": "Системное программирование",
+            "parsing-dannyih": "Парсинг данных",
+            "programmist-sotovye-telefony-kpk": "Программирование для сотовых телефонов и КПК",
+            "razrabotka-CRM-i-ERP": "Разработка CRM и ERP",
+            "plaginyi_stsenarii_utilityi": "Плагины/Сценарии/Утилиты",
+            "razrabotchik-vstraivaemyh-sistem": "Встраиваемые системы",
+            "specialist-zaschita-informacii": "Защита информации",
+            "specialist-web-proektirovanie": "Проектирование",
+            "interaktivnyie-prilojeniya": "Интерактивные приложения",
+            "upravlenie-proektami-razrabotki": "Управление проектами разработки",
+            "makrosyi-dlya-igr-programmirovanie": "Макросы для игр",
+            "blockchain": "Blockchain"
+        }
+    },
+    "audio-video": {
+        "name": "Аудио/Видео",
+        "local_types": {
+            "videomontazher": "Видеомонтаж",
+            "specialist-po-muzyke-zvukam-audio": "Музыка/Звуки",
+            "diktor": "Диктор",
+            "audiomontazher": "Аудиомонтаж",
+            "videodizajner-audio": "Видеодизайн",
+            "videooperator": "Видеосъемка",
+            "specialist-sozdanie-subtitrov-text": "Создание субтитров",
+            "videoprezentatsii": "Видеопрезентации",
+            "videoinfografika": "Видеоинфографика",
+            "rejissura": "Режиссура",
+            "kasting": "Кастинг",
+            "svadebnyj-videooperator": "Свадебное видео",
+            "raskadrovki": "Раскадровки"
+        }
+    },
+    "reklama-marketing": {
+        "name": "Реклама и Маркетинг",
+        "local_types": {
+            "SMM-marketing-v-sotssetyah": "SMM (маркетинг в соцсетях)",
+            "specialist-kontekstnaja-reklama-reklama": "Контекстная реклама",
+            "specialist-sbor-obrabotka-informacii": "Сбор и обработка информации",
+            "prodaji-i-generatsiya-lidov": "Продажи и генерация лидов",
+            "kreativ": "Креатив",
+            "specialist-reklamnye-koncepcii": "Рекламные концепции",
+            "pr-menedzher": "PR-менеджмент",
+            "telemarketing-i-prodaji-po-telefonu": "Телемаркетинг и продажи по телефону",
+            "issledovaniya-ryinka-i-oprosyi": "Исследования рынка и опросы",
+            "marketolog-analitik": "Исследования",
+            "specialist-biznes-plany": "Бизнес-планы",
+            "organizator-meroprijatij": "Организация мероприятий",
+            "smo-reklama": "SMO",
+            "specialist-mediaplanirovanie": "Медиапланирование",
+            "promo-personal": "Промо-персонал"
+        }
+    },
+    "konsalting": {
+        "name": "Аутсорсинг и консалтинг",
+        "local_types": {
+            "vvod-i-obrabotka-dannyih_teksta": "Ввод и обработка данных/текста",
+            "buhgalter-konsultant": "Бухгалтерия",
+            "konsultant-perevodchik": "Переводы/Тексты",
+            "jurist-konsultant": "Юриспруденция",
+            "repetitory-prepodavateli-konsalting": "Репетиторы / Преподаватели",
+            "marketolog": "Реклама/Маркетинг",
+            "konsultant-razrabotka-sajtov": "Разработка сайтов",
+            "obrabotka-zakazov": "Обработка заказов",
+            "dizajner-konsultant": "Дизайн/Арт",
+            "programmist-konsultant": "Программирование",
+            "biznes-konsultant": "Бизнес-консультирование",
+            "virtualnyiy-assistent": "Виртуальный ассистент",
+            "obrabotka-pisem": "Обработка писем",
+            "obslujivanie-klientov-i-podderjka": "Обслуживание клиентов и поддержка",
+            "tehnicheskaya-podderjka": "Техническая поддержка",
+            "finansovyi-konsultant": "Финансовый консультант",
+            "seo-konsultant": "Оптимизация (SEO)",
+            "podderjka-po-telefonu": "Поддержка по телефону",
+            "kadrovyiy-uchet-i-zarplata": "Кадровый учет и зарплата",
+            "statisticheskiy-analiz": "Статистический анализ",
+            "specialist-erp-sistemy": "Системы управления предприятием (ERP-системы)",
+            "obrabotka-platejey": "Обработка платежей",
+            "usability-konsultant": "Юзабилити"
+        }
+    },
+    "razrabotka-igr": {
+        "name": "Разработка игр",
+        "local_types": {
+            "illustrator-razrabotka-igr": "Рисунки и иллюстрации",
+            "specialist-3d-modelirovanie-razrabotka-igr": "3D Моделирование",
+            "2d-animator-razrabotka-igr": "2D Анимация",
+            "programmist-igr-razrabotka-igr": "Программирование игр",
+            "testirovanie-igr-QA": "Тестирование игр (QA)",
+            "3d-animator-razrabotka-igr": "3D Анимация",
+            "unity": "Unity",
+            "hudozhnik-piksel-arta-razrabotka-igr": "Пиксел-арт",
+            "ozvuchivanie-igr": "Озвучивание игр",
+            "makrosyi-dlya-igr-razrabotka-igr": "Макросы для игр",
+            "flash-flex-programmist-razrabotka-igr": "Flash/Flex-программирование",
+            "razrabotchik-koncepta-eskizov": "Концепт/Эскизы",
+            "videoroliki": "Видеоролики"
+        }
+    },
+    "perevody": {
+        "name": "Переводы",
+        "local_types": {
+            "perevod-tekstov-obschey-tematiki": "Перевод текстов общей тематики ",
+            "perevodchik-tehnicheskij": "Технический перевод",
+            "perevodchik-hudozhestvennyh-tekstov-literatury": "Художественный перевод",
+            "redaktirovanie-perevodov": "Редактирование переводов",
+            "lokalizatsiya-po-saytov-i-igr": "Локализация ПО, сайтов и игр",
+            "specialist-po-korrespondencii": "Корреспонденция/Деловая переписка",
+            "ustnyiy-perevod": "Устный перевод"
+        }
+    },
+    "animatsiya-multiplikatsiya": {
+        "name": "Анимация и флеш",
+        "local_types": {
+            "dizajner-bannerov-flash": "Флеш-баннеры",
+            "dizajner-bannerov-animacija": "Баннеры",
+            "specialist-po-muzyke-zvukam-animacija": "Музыка/Звуки",
+            "2d-animator-animacija": "2D Анимация",
+            "hudozhnik-2d-personazhej-animacija": "2D Персонажи",
+            "3d-animator-animacija": "3D Анимация",
+            "hudozhnik-3d-personazhej-animacija": "3D Персонажи",
+            "flash-dizajner-razrabotchik-flash": "Флеш-сайты",
+            "geym-art": "Гейм-арт",
+            "flash-flex-programmist-flash": "Flash/Flex-программирование",
+            "specialist-scenarii-dlja-animacii": "Сценарии для анимации",
+            "2d-animator-flash": "2D Флеш-aнимация",
+            "dizajner-flash-grafiki": "Флеш-графика",
+            "razrabotchik-virtualnye-tury": "Виртуальные туры",
+            "specialist-raskadrovka": "Раскадровки"
+        }
+    },
+    "fotografiya": {
+        "name": "Фотография",
+        "local_types": {
+            "retusher": "Ретуширование/Коллажи",
+            "hudozhestvennyj-fotograf": "Художественная/Арт",
+            "reklamnyj-fotograf": "Рекламная/Постановочная",
+            "fotograf-modelej": "Модели",
+            "fotograf-reporter": "Мероприятия/Репортажи",
+            "svadebnyj-fotograf-na-svadbu": "Свадебная фотосъемка",
+            "fotograf-interjerov": "Архитектура/Интерьер",
+            "promyshlennaya-fotosyemka": "Промышленная фотосъемка"
+        }
+    },
+    "3d-Grafika": {
+        "name": "3D Графика",
+        "local_types": {
+            "specialist-3d-modelirovanie-3d-grafika": "3D Моделирование",
+            "chastnyj-dizajner-interjera-3d-grafika": "Интерьеры",
+            "videodizajner-3d-grafika": "Видеодизайн",
+            "3d-animator-3d-grafika": "3D Анимация",
+            "3d-illustrator-3d-grafika": "3D Иллюстрации",
+            "hudozhnik-3d-personazhej-3d-grafika": "3D Персонажи",
+            "dizajner-eksterjerov": "Экстерьеры",
+            "vizualizator-predmetov": "Предметная визуализация"
+        }
+    },
+    "inzhiniring": {
+        "name": "Инжиниринг",
+        "local_types": {
+            "chertezhnik": "Чертежи/Схемы",
+            "inzhener-mashinostroenija": "Машиностроение",
+            "inzhener-konstruktor": "Конструкции",
+            "inzhener-elektrik": "Электрика",
+            "inzhener-slabotochnyh-setej-avtomatizacii": "Слаботочные сети/Автоматизация",
+            "smetyi": "Сметы ",
+            "inzhener-otoplenie-ventiljacija": "Отопление/Вентиляция",
+            "razrabotka-radioelektronnyih-sistem": "Разработка радиоэлектронных систем",
+            "inzhener-vodosnabzhenija-kanalizacii": "Водоснабжение/Канализация",
+            "inzhener-tehnolog": "Технология",
+            "gazosnabjenie": "Газоснабжение "
+        }
+    },
+    "obuchenie": {
+        "name": "Обучение и консультации",
+        "local_types": {
+            "specialist-napisanie-referatov-kursovyh-diplomov-obuchenie": "Рефераты / Курсовые / Дипломы",
+            "repetitory-prepodavateli-obuchenie": "Репетиторы / Преподаватели",
+            "psiholog": "Психолог",
+            "inostrannyie-yazyiki": "Иностранные языки",
+            "tehnicheskie-distsiplinyi": "Технические дисциплины ",
+            "doshkolnoe-obrazovanie": "Дошкольное образование ",
+            "gumanitarnyie-distsiplinyi": "Гуманитарные дисциплины ",
+            "konsultant-puteshestvija": "Путешествия",
+            "stilist": "Стилист"
+        }
+    },
+    "optimizatsiya-seo": {
+        "name": "Оптимизация (SEO)",
+        "local_types": {
+            "specialist-kontekstnaja-reklama-seo": "Контекстная реклама",
+            "seo-optimizator": "Поисковые системы",
+            "seo-copywriter": "Контент",
+            "smo-seo": "SMO",
+            "sem": "SEM",
+            "prodavec-ssylok": "Продажа ссылок"
+        }
+    },
+    "arkhitektura-interer": {
+        "name": "Архитектура/Интерьер",
+        "local_types": {
+            "chastnyj-dizajner-interjera-arhitektura-interier": "Интерьеры",
+            "chastnyj-arhitektor": "Архитектура",
+            "vizualizator": "Визуализация/3D",
+            "landshaftnyj-dizajner-landshafta-interier": "Ландшафтный дизайн/Генплан",
+            "specialist-makety": "Макетирование"
+        }
+    },
+    "poligrafiya": {
+        "name": "Полиграфия",
+        "local_types": {
+            "dizajner-poligrafii-poligrafija": "Полиграфический дизайн",
+            "dizajner-upakovki-poligrafija": "Дизайн упаковки",
+            "verstalschik-poligrafii": "Полиграфическая верстка",
+            "specialist-dopechatnaja-podgotovka": "Допечатная подготовка",
+            "verstka-elektronnyih-izdaniy": "Верстка электронных изданий",
+            "razrabotchik-shriftov-poligrafija": "Разработка шрифтов"
+        }
+    },
+    "menedzhment": {
+        "name": "Менеджмент",
+        "local_types": {
+            "rukovoditel-menedzher-internet-proektov-menedzhment": "Менеджер проектов",
+            "menedzher-po-prodazham": "Менеджер по продажам",
+            "hr-menedzher-po-personalu-rekruter": "Менеджер по персоналу",
+            "upravlenie-onlayn-reputatsiey": "Управление репутацией онлайн",
+            "kreativnyj-art-direktor": "Арт-директор"
+        }
+    },
+    "mobilnye-prilozheniya": {
+        "name": "Мобильные приложения",
+        "local_types": {
+            "Google-Android": "Google Android",
+            "iOS": "iOS",
+            "dizayn": "Дизайн",
+            "prototipirovanie": "Прототипирование",
+            "Windows-Phone": "Windows Phone"
+        }
+    },
+    "seti-i-informatsionnye-sistemy": {
+        "name": "Сети и инфосистемы",
+        "local_types": {
+            "setevoe-administrirovanie": "Сетевое администрирование",
+            "administrirovanie-baz-dannyih": "Администрирование баз данных",
+            "ERP-i-CRM-integratsii": "ERP и CRM интеграции"
+        }
+    }
+}
